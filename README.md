@@ -1,0 +1,2 @@
+# shellord-clips
+ShellOrd Clipboard
