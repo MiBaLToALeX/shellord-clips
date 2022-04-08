@@ -6,3 +6,19 @@ Paste the content into: https://gchq.github.io/CyberChef/#recipe=From_Base64('A-
 
 Magic!
 
+## Build
+
+### Linux 
+
+On Linux you need the x11 library, install it with something like:
+```bash
+sudo apt-get install xorg-dev
+cargo build --release
+```
+
+### Windows
+
+```powershell
+cargo build --release
+```
+
