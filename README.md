@@ -12,7 +12,7 @@ Magic!
 
 On Linux you need the x11 library, install it with something like:
 ```bash
-sudo apt-get install xorg-dev
+sudo apt-get install xorg-dev libxcb-shape0-dev libxcb-xfixes0-dev
 cargo build --release
 ```
 
