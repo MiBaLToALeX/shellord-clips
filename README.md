@@ -1,4 +1,4 @@
-# ShellOrdClips
+# ShellOrd Clips
 
 shellordclips.exe file2clipboard.txt
 
